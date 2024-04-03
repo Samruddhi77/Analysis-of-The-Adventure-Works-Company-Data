@@ -15,3 +15,15 @@ just below that 2 KPI's shows the Most ordered and Most Retured Product type.
 Monthly Revenue,Orders And Returns are shown in the left corner. 
 
 ![image](https://github.com/Samruddhi77/Analysis-of-The-Adventure-Works-Company-Data/assets/158604575/f082aba0-2164-412d-b051-48976dd008ca)
+
+## Maps
+On second Page A Dynamic Dashboard that shows the Maps of Total Customers from world wide,
+It has differnt tabs Europe, North America and Pacific which can be selected differntly.
+Bubble on the maps shows Country wise Total Orders.
+
+![image](https://github.com/Samruddhi77/Analysis-of-The-Adventure-Works-Company-Data/assets/158604575/c751b96d-0151-49d0-9b85-a6c7e371c544)
+
+
+
+
+
