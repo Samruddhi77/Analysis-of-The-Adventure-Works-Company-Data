@@ -23,7 +23,12 @@ Bubble on the maps shows Country wise Total Orders.
 
 ![image](https://github.com/Samruddhi77/Analysis-of-The-Adventure-Works-Company-Data/assets/158604575/c751b96d-0151-49d0-9b85-a6c7e371c544)
 
+## Product Table
+In the product table page dynamic dashboard, We have selected the one KPI card that shows the product we have selected to see the detaiiled information about that Product.
+once the product is selcted, we can see Monthly Orders vs Target, Monthly Revenue vs Target and Monthly Profit vs Target about that specific Product.
+just below that we can see the Profit Tranding and Return Tranding over months of differnet years, this charts designed to Drill up and Drill down to see the Hierarchy.
 
+![image](https://github.com/Samruddhi77/Analysis-of-The-Adventure-Works-Company-Data/assets/158604575/9037c44b-092f-4099-91ee-c75b63e3a915)
 
 
 
